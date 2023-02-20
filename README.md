@@ -2,6 +2,8 @@
 
 App which fetches data over the network and loads it as a user scrolls using Flutter and the bloc library.
 
+![flutter_infinite_list](https://user-images.githubusercontent.com/43721794/220087540-af266bc4-fab0-475b-ac3b-e4fa82ddfdc4.gif)
+
 ## Getting Started
 
 - Observe state changes with BlocObserver.
